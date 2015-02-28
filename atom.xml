@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[Hexo]]></title>
   <subtitle><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam justo turpis, tincidunt ac convallis id.]]></subtitle>
-  <link href="/hexo-theme-ghost-casper-demo/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   <link href="http://mikagmr.github.io/hexo-theme-ghost-casper-demo/"/>
   <updated>2015-02-28T18:09:26.040Z</updated>
   <id>http://mikagmr.github.io/hexo-theme-ghost-casper-demo/</id>
