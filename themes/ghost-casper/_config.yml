@@ -1,0 +1,25 @@
+# config
+cover: //blog.ghost.org/content/images/2013/Nov/cover.png
+bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam justo turpis, tincidunt ac convallis id.'
+location: Location
+website: Website
+
+# Add social network profile links
+social:
+  twitter: https://twitter.com/**profile**
+  google+: https://plus.google.com/**profile**
+  github: https://github.com/**profile**
+
+#opengraph
+twitter_profile: 
+googleplus_profile: 
+fb_admins:
+fb_app_id:
+
+fancybox:
+fitvids:
+
+excerpt_link: Read More
+
+# Miscellaneous
+rss: /atom.xml
