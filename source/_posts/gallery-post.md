@@ -5,6 +5,7 @@ photos:
 - /2013/12/25/gallery-post/wallpaper-2311325.jpg
 - /2013/12/25/gallery-post/wallpaper-878514.jpg
 - http://placehold.it/350x150.jpg
+fancybox: true
 ---
 
 This post contains 4 photos:
